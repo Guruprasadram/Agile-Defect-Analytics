@@ -190,11 +190,6 @@ Contributions are welcome! Here are ways you can contribute:
 - Create visualization features
 - Optimize code performance
 
-## 📧 Contact
-
-**Your Name** - [Your LinkedIn Profile]
-
-Project Link: [https://github.com/yourusername/bug-analysis-project](https://github.com/yourusername/bug-analysis-project)
 
 ## 📄 License
 
